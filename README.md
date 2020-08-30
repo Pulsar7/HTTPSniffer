@@ -13,6 +13,7 @@ Root-Rechte verfügen. Sollte dies nicht der Fall sein, kann das Modul Scapy nic
     -> datetime (from datetime import datetime)
     -> sys (import sys)
     -> scapy (from scapy.all import *)
+    -> time (import time)
     
 # Bekanntes Windows Problem
 
