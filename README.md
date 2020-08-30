@@ -8,7 +8,7 @@ Root-Rechte verfügen. Sollte dies nicht der Fall sein, kann das Modul Scapy nic
 
 # Python-Module
 
-    -> colorama (from colorama import Fore,Style) 
+    -> colorama (from colorama import *) 
     -> os (import os)
     -> datetime (from datetime import datetime)
     -> sys (import sys)
